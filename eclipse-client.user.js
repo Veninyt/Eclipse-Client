@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Eclipse Client(Beta Version)
+// @name         Eclipse Client
 // @namespace    http://tampermonkey.net/
 // @version      2.6
 // @description  Have fun!
