@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Eclipse Client
 // @namespace    http://tampermonkey.net/
-// @version      2.8
+// @version      2.6
 // @description  Have fun!
 // @author       Loqle, Venin, and others
 // @match        https://miniblox.io/
