@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name         Eclipse Clientwd
+// @name         Eclipse Client
 // @namespace    http://tampermonkey.net/
 // @version      2.8
 // @description  Have fun!
 // @author       Loqle, Venin, and others
 // @match        https://miniblox.io/
 // @icon         https://lh3.googleusercontent.com/d/1ttqeYY5oDdogf2n-EqG8Q1cJf7eLFj5B
-// @updateURL   https://raw.githubusercontent.com/<Veninyt>/Eclipse-Client/main/Eclipse%20Client(Beta%20Version)-2.4.user.js
-// @downloadURL https://raw.githubusercontent.com/<Veninyt>/Eclipse-Client/main/Eclipse%20Client(Beta%20Version)-2.4.user.js
+// @updateURL   https://raw.githubusercontent.com/<Veninyt>/Eclipse-Client/main/Eclipse%20Client-2.4.user.js
+// @downloadURL https://raw.githubusercontent.com/<Veninyt>/Eclipse-Client/main/Eclipse%20Client-2.4.user.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // ==/UserScript==
