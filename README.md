@@ -27,7 +27,7 @@ By downloading, accessing, or using this software (the "Software"), you agree to
 
 1. **Install a userscript manager:**  Download and install a userscript manager extension for your browser (Tampermonkey or Violentmonkey are popular choices).
 
-2. **Install Eclipse-Client:**  Go to this repository's releases section.
+2. **Install Eclipse Client:**  Go to this repository's releases section.
 
 3. **Enable the script:** In your userscript manager, make sure the Eclipse Client script is enabled.
 
