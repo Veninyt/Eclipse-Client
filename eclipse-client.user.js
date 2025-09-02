@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Eclipse Clientwd
 // @namespace    http://tampermonkey.net/
-// @version      2.6
+// @version      2.8
 // @description  Have fun!
 // @author       Loqle, Venin, and others
 // @match        https://miniblox.io/
