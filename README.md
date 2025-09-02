@@ -14,6 +14,8 @@
 
 Eclipse Client is a userscript designed to enhance the Miniblox experience.  It's not a hack client, instead it adds convenient features for players.  This project is a userscript, which means it runs directly within your web browser and interacts with the Miniblox website.
 
+By downloading, accessing, or using this software (the "Software"), you agree to the terms and conditions outlined in [the EULA](EULA.md).
+
 ## Quick Start
 
 ### Prerequisites
