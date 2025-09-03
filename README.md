@@ -34,11 +34,3 @@ By downloading, accessing, or using this software (the "Software"), you agree to
 4. **Visit Miniblox:** Visit the Miniblox website.  The Eclipse Client userscript should automatically load.
 
 5. **Lurker Collab** For the Eclipse Client and Public Lurker collab all you have to do is have both Lurker and Eclipse Client installed at the same time for it to activate.
-
-## Contributing
-
-Contributions are welcome!  Please open an issue or submit a pull request.
-
-## License
-
-This project is currently licensed under the GNU General Public License Version 3.
